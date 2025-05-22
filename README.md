@@ -15,7 +15,7 @@ Design and simulate a secure hotel network infrastructure.
 - DHCP server configuration for IP management
 - SSH implementation for secure remote device access
 
-**Tools Used:** Cisco Packet Tracer, Wireshark
+**Tools Used:** Cisco Packet Tracer
 
 ---
 
@@ -31,7 +31,7 @@ Simulate a network for a financial institution prioritizing secure data transmis
 - VoIP setup for internal telephony systems
 - Site-to-site VPN configuration to encrypt remote traffic
 
-**Tools Used:** Cisco Packet Tracer, GNS3
+**Tools Used:** Cisco Packet Tracer
 
 ---
 
